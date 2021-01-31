@@ -24,4 +24,4 @@ steps:
         azureSubscription: 'Azure for Students(2bf0d891-91bb-4a64-a6a1-465c9cb1efbf)'
         appType: 'webApp'
         WebAppName: 'medappl'
-        packageForLinux: '/dist'
+        packageForLinux: 'dist/'
